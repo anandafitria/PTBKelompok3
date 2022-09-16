@@ -3,4 +3,5 @@
     <string name="kp_main" />
     <string name="btn_logbook" />
     <string name="btn_seminar" />
+    <string name="btn_profil" />
 </resources>
